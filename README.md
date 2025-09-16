@@ -6,7 +6,7 @@
 - 🎯 Passionate about building robust, scalable, and efficient systems.  
 
 ---
-## Statitics
+## Statistics:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pivetti&layout=compact)
 
 ### Skills:
