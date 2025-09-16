@@ -1,4 +1,4 @@
-👋 Hello
+##👋 Hello
 
 - 🎓 Information Systems student at the Federal Institute of Paraná.
 - 🚀 Currently studying to become a Back-End Developer.  
@@ -7,7 +7,7 @@
 
 ---
 ## Statitics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pivetti&layout=compact)
 
 ### Skills:
 
