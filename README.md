@@ -1,9 +1,9 @@
 👋 Hello
 
 - 🎓 Information Systems student at the Federal Institute of Paraná.
-- 🚀 Currently studying to become a **Back-End Developer**.  
+- 🚀 Currently studying to become a Back-End Developer.  
 - 📚 Always learning and exploring new technologies to improve my skills.  
-- 🎯 Passionate about building **robust, scalable, and efficient systems**.  
+- 🎯 Passionate about building robust, scalable, and efficient systems.  
 
 ---
 
