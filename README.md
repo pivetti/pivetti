@@ -3,11 +3,6 @@ I am passionate about creating **robust, scalable, and efficient systems**, alwa
 
 ---
 
-## 📊 Statistics  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pivetti&layout=compact)
-
----
-
 ## 🛠️ Skills
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
