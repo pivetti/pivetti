@@ -1,5 +1,6 @@
-I am an **Information Systems student at the Federal Institute of Paraná (IFPR)**, focused on developing my skills in **Back-End Development**.  
-I am passionate about creating **robust, scalable, and efficient systems**, always seeking to deepen my knowledge and adopt good software engineering practices.
+Information Systems student at the Federal Institute of Paraná (IFPR), focused on Back-End Development.
+Passionate about building robust, scalable, and maintainable systems, with strong interest in software architecture, clean code, and best engineering practices.
+Constantly improving my skills through hands-on projects and real-world challenges.
 
 ---
 
